@@ -27,7 +27,7 @@
 
 **Director of Talent Acquisition at [Atlan](https://atlan.com)**, where I own Global R&D Talent Strategy & Acquisition for Engineering, Product Management, Design, IT, and Security. 20+ years building and scaling TA functions across APAC, North America, and Europe.
 
-What makes me different: **I also build the tools my team uses.** Evaluation frameworks that run as AI agents. A macOS widget for API usage tracking. Cloudflare Workers that generate personalized offer experiences. All shipped, all open source, all built with Claude as my engineering partner. I wrote [**Raising the Bar**](https://www.amazon.in/dp/B0FQMWW9RR), a playbook on building teams that compound strength through every hire.
+What makes me different: **I also build the tools my team uses.** Evaluation frameworks that run as AI agents. A prompt governance engine for production LLM systems. A macOS widget for API usage tracking. Cloudflare Workers that generate personalized offer experiences. All shipped, all open source, all built with Claude as my engineering partner. I wrote [**Raising the Bar**](https://www.amazon.in/dp/B0FQMWW9RR), a playbook on building teams that compound strength through every hire.
 
 ## What I Build
 
@@ -45,10 +45,10 @@ Native macOS menubar widget showing Claude API usage at a glance. No more hittin
 </td>
 <td width="50%" valign="top">
 
-### [Prompt Optimizer MCP](https://github.com/rishiatlan/Prompt-Optimizer-MCP)
-Scores, compiles, and optimizes prompts for any LLM. 11 tools, zero AI calls inside. Freemium with free tier. [Product site](https://rishiatlan.github.io/Prompt-Optimizer-MCP/). [How I built this](https://rishiatlan.github.io/Prompt-Optimizer-MCP/how-i-built-this.html).
+### [Prompt Control Plane](https://github.com/rishiatlan/Prompt-Optimizer-MCP)
+Deterministic prompt governance for production LLM systems. 19 tools, policy enforcement, tamper-evident audit trail, zero LLM calls inside. [Product site](https://prompt-control-plane.pages.dev/). [How I built this](https://prompt-control-plane.pages.dev/how-i-built-this.html).
 
-`TypeScript` `MCP` `npm` `Freemium`
+`TypeScript` `MCP` `npm` `GitHub Action` `Enterprise`
 
 </td>
 </tr>
