@@ -27,7 +27,7 @@
 
 **Director of Talent Acquisition at [Atlan](https://atlan.com)**, where I own Global R&D Talent Strategy & Acquisition for Engineering, Product Management, Design, IT, and Security. 20+ years building and scaling TA functions across APAC, North America, and Europe.
 
-What makes me different: **I also build the tools my team uses.** Evaluation frameworks that run as AI agents. A prompt governance engine for production LLM systems. A macOS widget for API usage tracking. Cloudflare Workers that generate personalized offer experiences. All shipped, all open source, all built with Claude as my engineering partner. I wrote [**Raising the Bar**](https://www.amazon.in/dp/B0FQMWW9RR), a playbook on building teams that compound strength through every hire.
+What makes me different: **I also build the tools my team uses.** An AI sourcing mapper that turns a job title into a full talent landscape in 10 seconds. A prompt governance engine for production LLM systems. A macOS widget for API usage tracking. Cloudflare Workers that generate personalized offer experiences. All shipped, all open source, all built with Claude as my engineering partner. I wrote [**Raising the Bar**](https://www.amazon.in/dp/B0FQMWW9RR), a playbook on building teams that compound strength through every hire.
 
 ## What I Build
 
@@ -98,6 +98,12 @@ Applies a custom hiring doctrine to interview transcripts. Scores on Agency, Jud
 
 </td>
 <td width="50%" valign="top">
+
+### [Sourcing Compass](https://github.com/rishi-banerjee1/Sourcing_Compass)
+AI talent landscape mapper for recruiters. Type a role → get target companies, adjacent pools, wildcard bets, and ranked titles with live connection lines. Replaces 2 hours of desk research with one form. [Live app](https://rishi-banerjee1.github.io/Sourcing_Compass/).
+
+`React` `Groq` `Llama 3.3` `Talent Intelligence`
+
 </td>
 </tr>
 </table>
