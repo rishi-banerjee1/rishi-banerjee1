@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=2026D2&center=true&vCenter=true&repeat=true&width=700&height=80&lines=Global+R%26D+Talent+Strategy+%26+Acquisition+at+Atlan;I+build+teams+and+the+tools+that+make+hiring+for+great+repeatable;Author+of+Raising+the+Bar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=2026D2&center=true&vCenter=true&repeat=true&width=760&height=80&lines=Global+Head+of+Talent+Acquisition+at+kAIgentic;Building+talent+systems+for+the+enterprise+intelligence+layer;Author+of+Raising+the+Bar" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,13 +25,13 @@
 
 ## About
 
-**Director of Talent Acquisition at [Atlan](https://atlan.com)**, where I own Global R&D Talent Strategy & Acquisition for Engineering, Product Management, Design, IT, and Security. 20+ years building and scaling TA functions across APAC, North America, and Europe.
+**Global Head of Talent Acquisition at [kAIgentic](https://kaigentic.com)**, the enterprise intelligence layer. I head global TA and build the talent system for a platform that turns tacit work knowledge into operational intelligence. 20+ years building and scaling TA functions across APAC, North America, and Europe.
 
-What makes me different: **I also build the tools my team uses.** An AI sourcing mapper that turns a job title into a full talent landscape in 10 seconds. A prompt governance engine for production LLM systems. A macOS widget for API usage tracking. Cloudflare Workers that generate personalized offer experiences. All shipped, all open source, all built with Claude as my engineering partner. I wrote [**Raising the Bar**](https://www.amazon.in/dp/B0FQMWW9RR), a playbook on building teams that compound strength through every hire.
+Before kAIgentic, I headed R&D hiring at Atlan across Engineering, Product, Design, IT, and Security. What makes me different: **I also build the systems underneath hiring.** An AI sourcing mapper that turns a job title into a full talent landscape in 10 seconds. A prompt governance engine for production LLM systems. A macOS widget for API usage tracking. Cloudflare Workers that generate personalized offer experiences. All shipped, all open source, all built with Claude as my engineering partner. I wrote [**Raising the Bar**](https://www.amazon.in/dp/B0FQMWW9RR), a playbook on building teams that compound strength through every hire.
 
 ## What I Build
 
-Tools I ship to solve problems my team faces daily. All built with AI as my engineering partner.
+Tools I ship to make judgment, evaluation, and operating discipline repeatable. All built with AI as my engineering partner.
 
 <table>
 <tr>
