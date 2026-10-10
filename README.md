@@ -9,7 +9,7 @@
   <a href="https://rishi-banerjee1.github.io/about-me/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.amazon.in/dp/B0FQMWW9RR">
+  <a href="https://www.amazon.in/dp/B0HMC6ZD7M">
     <img src="https://img.shields.io/badge/Raising_the_Bar-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
   </a>
   <a href="mailto:rpbanerjee@outlook.com">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishi-banerjee1&style=flat-square&color=2026D2" alt="Profile views" />
+  <img src="https://hits.sh/github.com/rishi-banerjee1.svg?style=flat-square&color=2026D2&label=Profile%20views&extraCount=429" alt="Profile views" />
 </p>
 
 ---
@@ -27,7 +27,7 @@
 
 **Global Head of Talent Acquisition at [kAIgentic](https://kaigentic.com)**, the enterprise intelligence layer. I head global TA and build the talent system for a platform that turns tacit work knowledge into operational intelligence. 20+ years building and scaling TA functions across APAC, North America, and Europe.
 
-Before kAIgentic, I headed R&D hiring at Atlan across Engineering, Product, Design, IT, and Security. What makes me different: **I also build the systems underneath hiring.** An AI sourcing mapper that turns a job title into a full talent landscape in 10 seconds. A prompt governance engine for production LLM systems. A macOS widget for API usage tracking. Cloudflare Workers that generate personalized offer experiences. All shipped, all open source, all built with Claude as my engineering partner. I wrote [**Raising the Bar**](https://www.amazon.in/dp/B0FQMWW9RR), a playbook on building teams that compound strength through every hire.
+Before kAIgentic, I headed R&D hiring at Atlan across Engineering, Product, Design, IT, and Security. What makes me different: **I also build the systems underneath hiring.** An AI sourcing mapper that turns a job title into a full talent landscape in 10 seconds. A prompt governance engine for production LLM systems. A macOS widget for API usage tracking. Cloudflare Workers that generate personalized offer experiences. All shipped, all open source, all built with Claude as my engineering partner. I wrote [**Raising the Bar**](https://www.amazon.in/dp/B0HMC6ZD7M), a playbook on building teams that compound strength through every hire.
 
 ## What I Build
 
@@ -134,11 +134,11 @@ AI talent landscape mapper for recruiters. Type a role → get target companies,
 ---
 
 > *"Every hire raises or lowers the bar. There is no neutral."*
-> — from [Raising the Bar](https://www.amazon.in/dp/B0FQMWW9RR)
+> — from [Raising the Bar](https://www.amazon.in/dp/B0HMC6ZD7M)
 
 <p align="center">
   <a href="https://rishi-banerjee1.github.io/about-me/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/rishibanerjee/">LinkedIn</a> ·
-  <a href="https://www.amazon.in/dp/B0FQMWW9RR">Book</a> ·
+  <a href="https://www.amazon.in/dp/B0HMC6ZD7M">Book</a> ·
   <a href="mailto:rpbanerjee@outlook.com">Email</a>
 </p>
