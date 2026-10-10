@@ -65,10 +65,10 @@ AI talent landscape mapper for recruiters. Type a role, get target companies, ad
 </td>
 <td width="50%" valign="top">
 
-### Gabbar Interview Evaluator
-A hiring doctrine for interview decisions: proof of real work plus coachability, judged against a checklist written before the interview, with built-in bias safeguards. Private.
+### RishiOS
+My operating system: master prompt, voice rules, working rules, and review agents. It includes **Gabbar**, the interview evaluation framework: a hiring doctrine, proof of real work plus coachability, an interviewer playbook and a scorecard. Private.
 
-`Hiring` `Evaluation` `Claude`
+`Operating System` `Hiring` `Evaluation` `Claude`
 
 </td>
 </tr>
@@ -76,7 +76,7 @@ A hiring doctrine for interview decisions: proof of real work plus coachability,
 <td width="50%" valign="top">
 
 ### RishiOS MCP
-A talent evaluation engine as an MCP server: a 6-dimension rubric with role and level weights, a strict verdict engine (Maybe = No), scorecard validation with auto-repair, and a Yes rule for interview decisions. Private.
+The code module of RishiOS: a talent evaluation engine as an MCP server with a 6-dimension rubric, a strict verdict engine (Maybe = No), scorecard validation with auto-repair, a Yes rule for interview decisions, and a culture interview guide. Private.
 
 `TypeScript` `MCP` `Zod` `Talent OS`
 
