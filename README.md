@@ -27,84 +27,95 @@
 
 **Global Head of Talent Acquisition at [kAIgentic](https://kaigentic.com)**, the enterprise intelligence layer. I head global TA and build the talent system for a platform that turns tacit work knowledge into operational intelligence. 20+ years building and scaling TA functions across APAC, North America, and Europe.
 
-Before kAIgentic, I headed R&D hiring at Atlan across Engineering, Product, Design, IT, and Security. What makes me different: **I also build the systems underneath hiring.** An AI sourcing mapper that turns a job title into a full talent landscape in 10 seconds. A prompt governance engine for production LLM systems. A macOS widget for API usage tracking. Cloudflare Workers that generate personalized offer experiences. All shipped, all open source, all built with Claude as my engineering partner. I wrote [**Raising the Bar**](https://www.amazon.in/dp/B0HMC6ZD7M), a playbook on building teams that compound strength through every hire.
+Before kAIgentic, I headed R&D hiring at Atlan across Engineering, Product, Design, IT, and Security. What makes me different: **I also build the systems underneath hiring.** An AI sourcing mapper that turns a job title into a full talent landscape in 10 seconds. Review agents that pressure-test hiring decisions and document structure. A talent evaluation engine for interview decisions. A prompt governance engine for production LLM systems. All shipped, all built with Claude as my engineering partner, and public where it is safe to be. I wrote [**Raising the Bar**](https://www.amazon.in/dp/B0HMC6ZD7M), a playbook on building teams that compound strength through every hire.
 
 ## What I Build
 
-Tools I ship to make judgment, evaluation, and operating discipline repeatable. All built with AI as my engineering partner.
+Tools I ship to make judgment, evaluation, and operating discipline repeatable. All built with AI as my engineering partner. Public where it is safe to be.
+
+### Hiring and judgment
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Claude Usage Widget](https://github.com/rishi-banerjee1/Claude-Usage-Mac-Widget)
-Native macOS menubar widget showing Claude API usage at a glance. No more hitting rate limits mid-conversation.
+### [Little Patty](https://github.com/rishi-banerjee1/little-patty)
+An agent modelled on Patty McCord, former Netflix Chief Talent Officer. It pressure-tests hiring, pay, performance and exit decisions, and quotes her only from a verified bank.
 
-`Swift` `SwiftUI` `macOS` `Claude API`
+`Claude Code` `Agent` `Talent` `Judgment`
 
 </td>
 <td width="50%" valign="top">
 
-### [Prompt Control Plane](https://github.com/rishi-banerjee1/Prompt-Optimizer-MCP)
-Deterministic prompt governance for production LLM systems. 19 tools, policy enforcement, tamper-evident audit trail, zero LLM calls inside. [Product site](https://getpcp.site).
+### [Little Barb](https://github.com/rishi-banerjee1/little-barb)
+An editor built on Barbara Minto's Pyramid Principle. It tests the structure of any document or deck, then rebuilds it: governing thought, MECE grouping, vertical logic.
 
-`TypeScript` `MCP` `npm` `GitHub Action` `Enterprise`
+`Claude Code` `Agent` `Structure` `Writing`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### [BlindBench](https://github.com/rishi-banerjee1/blindbench)
-Blind benchmark for LLM reasoning failures. Side-by-side model comparison with hidden identities, factual accuracy scoring, 10-type failure taxonomy, stability testing, and confidence calibration. 100+ models, 7,500+ responses. [Live demo](https://rishi-banerjee1.github.io/blindbench/).
-
-`React` `Supabase` `PostgreSQL` `Deno` `Multi-LLM`
-
-</td>
-<td width="50%" valign="top">
-
-### RishiOS MCP
-A full-stack talent operating system. 6 evaluation modes: scoring, JD generation, executive briefs, team calibration, slack bullets, and prose. Auto-repair, drift detection, learning from overrides.
-
-`TypeScript` `MCP` `Zod` `Talent OS` `Self-Learning`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Atlan Offer Wizard
-AI-generated personalized offer pages that turn a transactional moment into a memorable one. ~$0.006 per candidate, fully automated.
-
-`Cloudflare Workers` `Hono` `Claude AI`
-
-</td>
-<td width="50%" valign="top">
-
-### BlinkyOwl
-Fully autonomous YouTube Shorts generator with self-learning feedback loops. Zero cost, compounds output quality over time.
-
-`Python` `Remotion` `YouTube API`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Gabbar Interview Evaluator
-Applies a custom hiring doctrine to interview transcripts. Scores on Agency, Judgment, and Craft with bias safeguards.
-
-`AI` `Evaluation` `Claude`
-
-</td>
 <td width="50%" valign="top">
 
 ### [Sourcing Compass](https://github.com/rishi-banerjee1/Sourcing_Compass)
-AI talent landscape mapper for recruiters. Type a role → get target companies, adjacent pools, wildcard bets, and ranked titles with live connection lines. Replaces 2 hours of desk research with one form. [Live app](https://rishi-banerjee1.github.io/Sourcing_Compass/).
+AI talent landscape mapper for recruiters. Type a role, get target companies, adjacent pools, wildcard bets, and ranked titles with live connection lines. Replaces two hours of desk research with one form. [Live app](https://rishi-banerjee1.github.io/Sourcing_Compass/).
 
 `React` `Groq` `Llama 3.3` `Talent Intelligence`
 
 </td>
+<td width="50%" valign="top">
+
+### Gabbar Interview Evaluator
+A hiring doctrine for interview decisions: proof of real work plus coachability, judged against a checklist written before the interview, with built-in bias safeguards. Private.
+
+`Hiring` `Evaluation` `Claude`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### RishiOS MCP
+A talent evaluation engine as an MCP server: a 6-dimension rubric with role and level weights, a strict verdict engine (Maybe = No), scorecard validation with auto-repair, and a Yes rule for interview decisions. Private.
+
+`TypeScript` `MCP` `Zod` `Talent OS`
+
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
+
+### AI engineering
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Prompt Control Plane](https://github.com/rishi-banerjee1/prompt-control-plane)
+The control plane for AI prompts. Score, enforce policy, lock config, audit and route prompts across providers before they reach production. Deterministic, with zero LLM calls inside. [Product site](https://getpcp.site).
+
+`TypeScript` `MCP` `npm` `GitHub Action` `Enterprise`
+
+</td>
+<td width="50%" valign="top">
+
+### [BlindBench](https://github.com/rishi-banerjee1/blindbench)
+Blind benchmark for LLM reasoning failures. Side-by-side model comparison with hidden identities, factual accuracy scoring, a 10-type failure taxonomy, stability testing, and confidence calibration. 100+ models, 7,500+ responses. [Live demo](https://rishi-banerjee1.github.io/blindbench/).
+
+`React` `Supabase` `PostgreSQL` `Deno` `Multi-LLM`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Claude Usage Widget](https://github.com/rishi-banerjee1/claude-usage-widget)
+Floating macOS widget that tracks Claude usage and rate limits in real time. Single-file Swift, no dependencies. [Site](https://rishi-banerjee1.github.io/claude-usage-widget/).
+
+`Swift` `macOS` `Claude`
+
+</td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
